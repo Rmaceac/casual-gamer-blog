@@ -1,4 +1,5 @@
 <div class='reviews'>
+  <h1>Reviews</h1>
   <ul>
     <li><a href='/'>Review 1</a></li>
     <li><a href='/'>Review 2</a></li>
@@ -8,6 +9,10 @@
 <style>
   .reviews {
     margin-top: 20px;
+  }
+
+  h1 {
+    text-align: center;
   }
 
   ul { 
