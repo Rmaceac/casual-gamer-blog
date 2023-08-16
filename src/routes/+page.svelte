@@ -1,8 +1,4 @@
-<script>
-  import Title from '$lib/title.svelte';
-</script>
-
-<Title />
+<script></script>
 
 <div class='home'>
   <h1>Welcome to The Casual Gamer Blog!</h1>
